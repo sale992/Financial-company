@@ -250,7 +250,7 @@ textarea {
   transform: translate(-10%, -55%);
   height: 100%;
   width: 28px;
-  background-image: url(/img/mag-glass.png);
+  background-image: url(./img/mag-glass.png);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -424,7 +424,7 @@ textarea {
   transform: translateY(-50%);
   width: 25px;
   height: 25px;
-  background-image: url(img/address.png);
+  background-image: url(./img/address.png);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -440,7 +440,7 @@ textarea {
   transform: translateY(-50%);
   width: 25px;
   height: 25px;
-  background-image: url(img/number.png);
+  background-image: url(./img/number.png);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -456,7 +456,7 @@ textarea {
   transform: translateY(-50%);
   width: 25px;
   height: 25px;
-  background-image: url(img/mail.png);
+  background-image: url(./img/mail.png);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
